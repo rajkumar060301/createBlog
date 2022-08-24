@@ -12,6 +12,7 @@ this result in this project implemented
 
 
 ## Authors
+Raj Kumar
 
 - [@rajkumar060301](https://github.com/rajkumar060301)
 
